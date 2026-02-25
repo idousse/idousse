@@ -1,4 +1,4 @@
-I'm Ioann, a sophomore student at McGill university majoring in Mathematics and Computer Science.
+I'm Ioann, a McGill sophomore majoring in Mathematics and Computer Science.
 
 - 📧 [Email me](ioanndousse@gmail.com)
 - 🔗 [LinkedIn Profile](https://linkedin.com/in/ioanndousse)
