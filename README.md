@@ -1,4 +1,7 @@
-## Hi there 👋
+I'm Ioann, a sophomore student at McGill university majoring in Mathematics and Computer Science.
+
+- 📧 [Email me](ioanndousse@gmail.com)
+- 🔗 [LinkedIn Profile](https://linkedin.com/in/ioanndousse)
 
 <!--
 **idousse/idousse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
